@@ -1,0 +1,4 @@
+interface:
+  display_name: "练练健身"
+  short_description: "查询分析练练健身训练与身体数据，确认后修改计划和记录"
+  default_prompt: "使用 $keepstrong-training 分析我最近的练练健身训练记录，指出进展和可改进之处。"
